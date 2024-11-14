@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fab47a87.css",
+    "main.js": "/static/js/main.a8119884.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/image.png": "/static/media/image.7d00cbeca798cd89a8b7.png",
+    "static/media/logo.ico": "/static/media/logo.5bdd87334cf57bed47ce.ico",
+    "static/media/portfolio1.png": "/static/media/portfolio1.70deb73197623d85e5c6.png",
+    "static/media/instagram.png": "/static/media/instagram.8e408da00539cdef4629.png",
+    "static/media/portfolio6.jpg": "/static/media/portfolio6.2f07910a851b23299459.jpg",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.cd45a0a41b98a2a02742.jpg",
+    "static/media/portfolio5.jpg": "/static/media/portfolio5.453055d51c2c4cdfdca7.jpg",
+    "static/media/portfolio2.webp": "/static/media/portfolio2.2f3a163c0fff6efe1d10.webp",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.aca8979226ec886e6054.jpg",
+    "static/media/web-design.png": "/static/media/web-design.f721d6300da36dde4a81.png",
+    "static/media/app-design.png": "/static/media/app-design.5363b1b79b6324c9ea5d.png",
+    "static/media/ui-designer.png": "/static/media/ui-designer.1f9bfe89fe9becc2219a.png",
+    "static/media/hire.png": "/static/media/hire.9c6397602a91e7519778.png",
+    "static/media/facebook.png": "/static/media/facebook.49e67d43221b6bb1aa86.png",
+    "static/media/contact.png": "/static/media/contact.a51bd9a50d7d01831b64.png",
+    "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/logo.svg": "/static/media/logo.4bdbcf8396881de06a6723a92fed910b.svg",
+    "index.html": "/index.html",
+    "main.fab47a87.css.map": "/static/css/main.fab47a87.css.map",
+    "main.a8119884.js.map": "/static/js/main.a8119884.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab47a87.css",
+    "static/js/main.a8119884.js"
+  ]
+}
